@@ -1,9 +1,9 @@
 streamlit
-tensorflow
+tensorflow-cpu
 opencv-python-headless
 moviepy==1.0.3
 librosa
-scenedetect[opencv]
+scenedetect
 numpy==1.26.4
 scipy
 scikit-learn
